@@ -1,0 +1,3 @@
+rootProject.name = 'yiming_song_2431'
+
+include ':app'
